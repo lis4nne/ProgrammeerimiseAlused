@@ -1,1 +1,2 @@
 # ProgrammeerimiseAlused
+Autor: Lisanne Nurk
