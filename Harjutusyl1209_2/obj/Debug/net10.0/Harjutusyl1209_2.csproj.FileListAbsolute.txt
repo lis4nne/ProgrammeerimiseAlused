@@ -1,0 +1,15 @@
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\bin\Debug\net10.0\Harjutusyl1209_2.exe
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\bin\Debug\net10.0\Harjutusyl1209_2.deps.json
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\bin\Debug\net10.0\Harjutusyl1209_2.runtimeconfig.json
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\bin\Debug\net10.0\Harjutusyl1209_2.dll
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\bin\Debug\net10.0\Harjutusyl1209_2.pdb
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\obj\Debug\net10.0\Harjutusyl1209_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\obj\Debug\net10.0\Harjutusyl1209_2.AssemblyInfoInputs.cache
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\obj\Debug\net10.0\Harjutusyl1209_2.AssemblyInfo.cs
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\obj\Debug\net10.0\Harjutusyl1209_2.csproj.CoreCompileInputs.cache
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\obj\Debug\net10.0\Harjutusyl1209_2.dll
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\obj\Debug\net10.0\refint\Harjutusyl1209_2.dll
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\obj\Debug\net10.0\Harjutusyl1209_2.pdb
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\obj\Debug\net10.0\Harjutusyl1209_2.genruntimeconfig.cache
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\obj\Debug\net10.0\ref\Harjutusyl1209_2.dll
+C:\Users\lisan\source\repos\ProgrammerimiseAlused\Harjutusyl1209_2\obj\Debug\net10.0\Harjutus.87C90A3F.Up2Date
