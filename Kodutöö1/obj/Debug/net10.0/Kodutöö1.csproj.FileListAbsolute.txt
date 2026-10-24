@@ -1,0 +1,16 @@
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\obj\Debug\net10.0\Kodutöö1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\obj\Debug\net10.0\Kodutöö1.AssemblyInfoInputs.cache
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\obj\Debug\net10.0\Kodutöö1.AssemblyInfo.cs
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\obj\Debug\net10.0\Kodutöö1.csproj.CoreCompileInputs.cache
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\obj\Debug\net10.0\Kodutöö1.sourcelink.json
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\bin\Debug\net10.0\Kodutöö1.exe
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\bin\Debug\net10.0\Kodutöö1.deps.json
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\bin\Debug\net10.0\Kodutöö1.runtimeconfig.json
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\bin\Debug\net10.0\Kodutöö1.dll
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\bin\Debug\net10.0\Kodutöö1.pdb
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\obj\Debug\net10.0\Kodutöö1.dll
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\obj\Debug\net10.0\refint\Kodutöö1.dll
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\obj\Debug\net10.0\Kodutöö1.pdb
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\obj\Debug\net10.0\Kodutöö1.genruntimeconfig.cache
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\obj\Debug\net10.0\ref\Kodutöö1.dll
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Kodutöö1\obj\Debug\net10.0\Kodutöö1.csproj.Up2Date
