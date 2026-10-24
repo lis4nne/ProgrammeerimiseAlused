@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lisan\\source\\repos\\ProgrammerimiseAlused\\Kodut\u00F6\u00F61\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8376BA11-3DEB-4CF1-A5B9-9D1E7F805427}|Kodut\u00F6\u00F61.csproj|c:\\users\\lisan\\source\\repos\\programmerimisealused\\kodut\u00F6\u00F61\\kodut\u00F6\u00F61.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8376BA11-3DEB-4CF1-A5B9-9D1E7F805427}|Kodut\u00F6\u00F61.csproj|solutionrelative:kodut\u00F6\u00F61.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kodut\u00F6\u00F61.cs",
+              "DocumentMoniker": "C:\\Users\\lisan\\source\\repos\\ProgrammerimiseAlused\\Kodut\u00F6\u00F61\\Kodut\u00F6\u00F61.cs",
+              "RelativeDocumentMoniker": "Kodut\u00F6\u00F61.cs",
+              "ToolTip": "C:\\Users\\lisan\\source\\repos\\ProgrammerimiseAlused\\Kodut\u00F6\u00F61\\Kodut\u00F6\u00F61.cs",
+              "RelativeToolTip": "Kodut\u00F6\u00F61.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T08:12:20.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
