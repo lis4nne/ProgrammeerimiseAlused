@@ -1,0 +1,16 @@
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\bin\Debug\net10.0\Harjutusyl_klassid.exe
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\bin\Debug\net10.0\Harjutusyl_klassid.deps.json
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\bin\Debug\net10.0\Harjutusyl_klassid.runtimeconfig.json
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\bin\Debug\net10.0\Harjutusyl_klassid.dll
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\bin\Debug\net10.0\Harjutusyl_klassid.pdb
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\obj\Debug\net10.0\Harjutusyl_klassid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\obj\Debug\net10.0\Harjutusyl_klassid.AssemblyInfoInputs.cache
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\obj\Debug\net10.0\Harjutusyl_klassid.AssemblyInfo.cs
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\obj\Debug\net10.0\Harjutusyl_klassid.csproj.CoreCompileInputs.cache
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\obj\Debug\net10.0\Harjutusyl_klassid.sourcelink.json
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\obj\Debug\net10.0\Harjutusyl_klassid.dll
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\obj\Debug\net10.0\refint\Harjutusyl_klassid.dll
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\obj\Debug\net10.0\Harjutusyl_klassid.pdb
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\obj\Debug\net10.0\Harjutusyl_klassid.genruntimeconfig.cache
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\obj\Debug\net10.0\ref\Harjutusyl_klassid.dll
+C:\Users\lisan\source\repos\ProgrammeerimiseAlused\Harjutus_klassid\Harjutusyl_klassid\obj\Debug\net10.0\Harjutus.C865E2FE.Up2Date

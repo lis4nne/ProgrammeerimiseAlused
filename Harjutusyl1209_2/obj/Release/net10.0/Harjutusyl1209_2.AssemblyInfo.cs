@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Harjutusyl1209_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a14e9e8f9bc416a82e4b2191b4f51dfe23300dc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a867030a04d05c3f510332135c59baf3b7108430")]
 [assembly: System.Reflection.AssemblyProductAttribute("Harjutusyl1209_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Harjutusyl1209_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
